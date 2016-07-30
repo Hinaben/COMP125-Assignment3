@@ -5,7 +5,7 @@
         @author       ::  Hina Patel 
         @date         ::  July 30, 2016
         StuentID      ::  821021425        
-        website       ::  http://comp125-a2.azurewebsites.net
+        website       ::  http://comp125-assignment3.azurewebsites.net
         @description  ::  Java Script file for COMP 125- Assignment 3 web application. 
              
 */
@@ -40,10 +40,10 @@
   var message = document.getElementById("message");
 
   if (firstName) {
-    firstName.value = "Amit";
+    firstName.value = "Hina";
     lastName.value = "Patel";
-    inputEmail.value = "amit.jackman@gmail.com";
-    contactNumber.value = "416416416";
+    inputEmail.value = "henapatel21@hotmail.com";
+    contactNumber.value = "4164164164";
     message.value = " Hey there";
 
     //form reference 
